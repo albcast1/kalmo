@@ -1,7 +1,6 @@
 {
   "name": "kalmo",
   "scripts": {
-    "postinstall": "prisma generate && tsr generate",
     "dev": "vinxi dev",
     "build": "vinxi build",
     "start": "vinxi start",
